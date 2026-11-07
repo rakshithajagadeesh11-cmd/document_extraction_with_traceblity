@@ -1,0 +1,8 @@
+pymupdf
+pdfplumber
+langgraph
+pydantic
+langgraph 
+langchain-ollama
+streamlit 
+pillow
